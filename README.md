@@ -1,10 +1,12 @@
-# JapNameGenerator
+# 🎌 JapNameGenerator
 
-this is my first repo :3
+This is my first repo :3
 
-# 🎌 Japanese Name Generator
 
-**A simple name generator for your characters, nicknames, or D&D campaigns.**
+## 🧙 A simple character generator
+
+**Generate full Japanese-style names — first and last — for your characters, stories, RPG sessions, or just for fun.**
+
 
 ## 👋 Mini‑intro
 
@@ -15,17 +17,19 @@ To be honest, I’ve been thinking for a long time about what my first public pr
 
 Here it is. Hope you like it.
 
+
 ## 📖 About the project
 
 This generator was written in about **30 minutes** for my personal use.  
-But since it’s now public, it’s no longer just for me — it’s for anyone who needs a quick, random Japanese-style name.
+But since it’s now public, it’s no longer just for me — it’s for anyone who needs a quick, random Japanese-style **full name** (first + last).
 
 **Use it for:**
 
 - Nicknames or usernames
 - Fanfiction characters
 - D&D / RPG sessions
-- Or just for fun (heh~)
+- Naming NPCs on the fly
+- Just for fun (heh~)
 
 ## 🌟 What's new in version 1.1
 
@@ -41,13 +45,14 @@ I’ll improve it, add features, and update it over time.
 
 Think of this as **the starting point**. Every journey has to start somewhere — and this is mine.
 
-## 🧑‍💻 How to run
+JapNameGen.py
 
-    JapNameGen.py
-
-## 📬 Feedback
-
+📬 Feedback
 If you have any ideas or suggestions — feel free to open an issue or just say hi.
 
-_Thanks for stopping by!_  
+Thanks for stopping by!
 — EkeVoki
+
+📄 License
+This project is licensed under the MIT License – see the LICENSE file for details
+
